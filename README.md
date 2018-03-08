@@ -1,2 +1,2 @@
 # ice-cream-blog
-Blog about icre-cream
+Blog about ice-cream
